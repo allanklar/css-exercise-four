@@ -40,7 +40,7 @@ h2 {
 }
 
 .preview_baku {
-  background-image: url("/images/baku.jpg");
+  background-image: url("../images/baku.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
@@ -49,7 +49,7 @@ h2 {
 }
 
 .preview_london {
-  background-image: url("/images/london.png");
+  background-image: url("../images/london.png");
   background-repeat: no-repeat;
   background-size: cover;
   float: left;
@@ -57,7 +57,7 @@ h2 {
 }
 
 .preview_madrid {
-  background-image: url("/images/madrid.jpg");
+  background-image: url("../images/madrid.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   float: left;
@@ -65,7 +65,7 @@ h2 {
 }
 
 .preview_rome {
-  background-image: url("/images/rome.jpg");
+  background-image: url("../images/rome.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   float: left;
